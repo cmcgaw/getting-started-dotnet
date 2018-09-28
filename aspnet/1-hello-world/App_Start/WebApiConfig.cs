@@ -28,7 +28,7 @@ namespace GoogleCloudSamples
     {
         // [START sample]
         /// <summary>
-        /// The simplest possible HTTP Handler that just returns "Hello World."
+        /// The simplest possible HTTP Handler that just returns "Hello World." cool
         /// </summary>
         public class HelloWorldHandler : HttpMessageHandler
         {
